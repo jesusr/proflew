@@ -1,0 +1,29 @@
+{
+  "name": "proflew",
+  "version": "1.0.0",
+  "description": "Project deployment, management, tasks, documentation and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusr/proflew.git"
+  },
+  "keywords": [
+    "project",
+    "management",
+    "deployment",
+    "scripts",
+    "pipeline"
+  ],
+  "author": "Jesús R Peinado jesusrpeinado@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesusr/proflew/issues"
+  },
+  "homepage": "https://github.com/jesusr/proflew#readme",
+  "dependencies": {
+    "docrester": "^1.1.3"
+  }
+}
